@@ -39,3 +39,7 @@ La aplicación "App_Mascota" es una interfaz de usuario que permite administrar 
 
 - Datos de prueba: La aplicación cuenta con al menos 5 mascotas como datos de prueba.
 
+## VISTA
+
+- ![]([https://github.com/tu_usuario/tu_repositorio/ruta/a/tu/imagen.jpg](https://github.com/ClaudioVergara2/CanDog/blob/main/Prototipo.jpg)https://github.com/ClaudioVergara2/CanDog/blob/main/Prototipo.jpg)
+
