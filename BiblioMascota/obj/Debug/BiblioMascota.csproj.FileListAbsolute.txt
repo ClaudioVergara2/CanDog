@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Soluc PeluCandog\BiblioMascota\obj\Debug\BiblioMascota.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Soluc PeluCandog\BiblioMascota\obj\Debug\BiblioMascota.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Soluc PeluCandog\BiblioMascota\bin\Debug\BiblioMascota.dll
+C:\Users\User\Desktop\Soluc PeluCandog\BiblioMascota\bin\Debug\BiblioMascota.pdb
+C:\Users\User\Desktop\Soluc PeluCandog\BiblioMascota\obj\Debug\BiblioMascota.dll
+C:\Users\User\Desktop\Soluc PeluCandog\BiblioMascota\obj\Debug\BiblioMascota.pdb

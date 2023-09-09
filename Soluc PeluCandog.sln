@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_mascota", "app_mascota\app_mascota.csproj", "{9DDB7344-27F4-4A4A-A49C-A3CAED7F695B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioMascota", "BiblioMascota\BiblioMascota.csproj", "{1A6D20BE-431E-4861-B99A-29C4E48B18E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DDB7344-27F4-4A4A-A49C-A3CAED7F695B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDB7344-27F4-4A4A-A49C-A3CAED7F695B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDB7344-27F4-4A4A-A49C-A3CAED7F695B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDB7344-27F4-4A4A-A49C-A3CAED7F695B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6D20BE-431E-4861-B99A-29C4E48B18E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6D20BE-431E-4861-B99A-29C4E48B18E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6D20BE-431E-4861-B99A-29C4E48B18E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6D20BE-431E-4861-B99A-29C4E48B18E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3DCFB0-8D30-4ABE-8DCC-37720F7D7077}
+	EndGlobalSection
+EndGlobal
