@@ -41,5 +41,5 @@ La aplicación "App_Mascota" es una interfaz de usuario que permite administrar 
 
 ## VISTA
 
-- ![Vista](https://github.com/ClaudioVergara2/CanDog/blob/main/Prototipo.jpg)
+![Vista](https://github.com/ClaudioVergara2/CanDog/blob/main/Prototipo.jpg)
 
